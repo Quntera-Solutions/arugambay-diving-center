@@ -5,7 +5,7 @@ export const siteConfig = {
   phone: '+94 76 530 2577',
   phoneRaw: '+94765302577',
   whatsappNumber: '94765302577', // international format without + or spaces for wa.me links
-  address: 'Kiki Mall, Panama Rd, Arugam Bay, Sri Lanka',
+  address: 'Kiki Mall, Arugam Bay, Panama rd Main road, Arugam Bay, Pottuvil',
   season: 'April to October',
   social: {
     instagram: '#',
